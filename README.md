@@ -90,92 +90,90 @@ Variable-Sized Backdoor Attacks in Deep Neural Networks</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(38).pdf" style="text-decoration:none;">BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(39).pdf" style="text-decoration:none;">Input-Aware Dynamic Backdoor Attack</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(40).pdf" style="text-decoration:none;">AEGIS: Exposing Backdoors in Robust Machine Learning Models</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(41).pdf" style="text-decoration:none;">BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(42).pdf" style="text-decoration:none;">Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(43).pdf" style="text-decoration:none;">Defending Neural Backdoors via Generative
+Distribution Modeling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(44).pdf" style="text-decoration:none;">Backdoor Learning: A Survey</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(45).pdf" style="text-decoration:none;">An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(46).pdf" style="text-decoration:none;">Blind Backdoors in Deep Learning Models</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(47).pdf" style="text-decoration:none;">TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(48).pdf" style="text-decoration:none;">Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(49).pdf" style="text-decoration:none;">PoTrojan: powerful neuron-level trojan designs in deep learning models</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(50).pdf" style="text-decoration:none;">Backdoor Attacks and Countermeasures on Deep
+Learning: A Comprehensive Review</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(51).pdf" style="text-decoration:none;">Model-Targeted Poisoning Attacks with Provable Convergence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(52).pdf" style="text-decoration:none;">Provable Defense Against Delusive Poisoning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(53).pdf" style="text-decoration:none;">Reverse Engineering Imperceptible Backdoor Attacks On Deep Neural Networks For Detection And Training Set Cleansing</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(54).pdf" style="text-decoration:none;">Backdoor Attacks Against Deep Learning Systems in the Physical World </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(55).pdf" style="text-decoration:none;">Regula Sub-rosa: Latent Backdoor Attacks
+on Deep Neural Networks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(56).pdf" style="text-decoration:none;">PointBA: Towards Backdoor Attacks in 3D Point Cloud </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(57).pdf" style="text-decoration:none;">TROJANZOO: Everything you ever wanted to know about neural backdoors (but were afraid to ask)</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(58).pdf" style="text-decoration:none;">A Backdoor Attack against 3D Point Cloud
+Classifiers</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(59).pdf" style="text-decoration:none;">FaceHack: Triggering backdoored facial recognition systems using facial characteristics</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(60).pdf" style="text-decoration:none;">Universal Litmus Patterns:
+Revealing Backdoor Attacks in CNNs </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(61).pdf" style="text-decoration:none;">Rethinking the Backdoor Attacks’ Triggers: A Frequency Perspective</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(62).pdf" style="text-decoration:none;">A Master Key Backdoor for Universal Impersonation Attack against DNN-based Face Verification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(63).pdf" style="text-decoration:none;">De-Pois: An Attack-Agnostic Defense against
+Data Poisoning Attacks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(64).pdf" style="text-decoration:none;">How To Backdoor Federated Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(65).pdf" style="text-decoration:none;">Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(66).pdf" style="text-decoration:none;">TOP: Backdoor Detection in Neural Networks via Transferability of Perturbation</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(67).pdf" style="text-decoration:none;">CLEANN: Accelerated Trojan Shield for Embedded Neural Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(68).pdf" style="text-decoration:none;">Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(69).pdf" style="text-decoration:none;">Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(70).pdf" style="text-decoration:none;">On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(71).pdf" style="text-decoration:none;">Invisible Backdoor Attacks on Deep Neural
+Networks via Steganography and Regularization</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(72).pdf" style="text-decoration:none;">Detecting Backdoors in Neural Networks
+Using Novel Feature-Based Anomaly Detection</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(73).pdf" style="text-decoration:none;">Backdoor Attacks on Federated Meta-Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(74).pdf" style="text-decoration:none;">Hu-Fu: Hardware and Software Collaborative
+Attack Framework against Neural Networks</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(75).pdf" style="text-decoration:none;">Model-Reuse Attacks on Deep Learning Systems</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(76).pdf" style="text-decoration:none;">Detecting AI Trojans
+Using Meta Neural Analysis</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(77).pdf" style="text-decoration:none;">Online Defense of Trojaned Models using Misattributions</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(78).pdf" style="text-decoration:none;">Strong Data Augmentation Sanitizes Poisoning And Backdoor Attacks Without An Accuracy Tradeoff</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(79).pdf" style="text-decoration:none;">Bullseye Polytope: A Scalable Clean-Label
+Poisoning Attack with Improved Transferability</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(80).pdf" style="text-decoration:none;">Black-box Detection of Backdoor Attacks with Limited Information and Data</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(81).pdf" style="text-decoration:none;">The Grid Roofnet:
