@@ -59,7 +59,7 @@ Via Gradient Matching</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(25).pdf" style="text-decoration:none;">Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(26).pdf" style="text-decoration:none;">HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(27).pdf" style="text-decoration:none;">TamperNN: Ecient Tampering Detection
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(27).pdf" style="text-decoration:none;">TamperNN: Efficient Tampering Detection
 of Deployed Neural Nets</a></li>
    
  
@@ -319,41 +319,42 @@ Systems</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(143).pdf" style="text-decoration:none;">Technical Report: When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(144).pdf" style="text-decoration:none;">Bypassing Backdoor Detection Algorithms in Deep Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(145).pdf" style="text-decoration:none;">Backdoors in Neural Models of Source Code</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(146).pdf" style="text-decoration:none;">Intrusion Recovery Using Selective Re-execution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(146).pdf" style="text-decoration:none;">Neural Trojans</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(147).pdf" style="text-decoration:none;">Modular Components for Network Address Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(147).pdf" style="text-decoration:none;">Live Trojan Attacks on Deep Neural Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(148).pdf" style="text-decoration:none;">An Extension-Oriented Compiler</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(148).pdf" style="text-decoration:none;">T-Miner : A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(149).pdf" style="text-decoration:none;">Optimizing Communication Bottlenecks in Multiprocessor Operating System Kernels</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(149).pdf" style="text-decoration:none;">Spectral Signatures in Backdoor Attacks</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(150).pdf" style="text-decoration:none;">Scaling a file system to many cores
-using an operation log</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(150).pdf" style="text-decoration:none;">Be Careful about PoisonedWord Embeddings:
+Exploring the Vulnerability of the Embedding Layers in NLP Models</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(151).pdf" style="text-decoration:none;">A Software Approach to Unifying Multicore Caches </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(151).pdf" style="text-decoration:none;">Towards Robustness Against
+Natural Language Word Substitutions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(152).pdf" style="text-decoration:none;">Self-Certifying File System Implementation for Windows </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(153).pdf" style="text-decoration:none;">Flexible Key Management with SFS Agents</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(154).pdf" style="text-decoration:none;">Access Control Lists for the Self-Certifying
-Filesystem</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(152).pdf" style="text-decoration:none;">Poisoning Attacks against Support Vector Machines </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(153).pdf" style="text-decoration:none;">Stealthy Poisoning Attack on Certified Robustness</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(154).pdf" style="text-decoration:none;">Just How Toxic Is Data Poisoning? A Benchmark
+For Backdoor And Data Poisoning Attacks</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(155).pdf" style="text-decoration:none;">Separating key management from file system security</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(155).pdf" style="text-decoration:none;">Mitigating Backdoor Attacks in Federated Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(156).pdf" style="text-decoration:none;">Concurrency Control for Multi-Processor Event-Driven Systems</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(157).pdf" style="text-decoration:none;">Fast and secure distributed read-only file system</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(158).pdf" style="text-decoration:none;">Shenango: Achieving High CPU Efficiency for
-Latency-sensitive Datacenter Workloads</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(156).pdf" style="text-decoration:none;">Provable Guarantees against Data Poisoning
+Using Self-Expansion and Compatibility</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(157).pdf" style="text-decoration:none;">TAD: Trigger Approximation based Black-box Trojan Detection for AI</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(158).pdf" style="text-decoration:none;">BEBP: An Poisoning Method Against Machine
+Learning Based IDSs</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(159).pdf" style="text-decoration:none;">View-Centric Performance Optimization for
-Database-Backed Web Applications </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(159).pdf" style="text-decoration:none;">Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(160).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(160).pdf" style="text-decoration:none;">A backdoor attack against LSTM-based text classification systems</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(161).pdf" style="text-decoration:none;">Subpopulation Data Poisoning Attacks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(162).pdf" style="text-decoration:none;">Splinter: Practical Private Queries on Public Data</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/t(162).pdf" style="text-decoration:none;">ONION: A Simple and Effective Defense Against Textual Backdoor Attacks</a></li> 
     </ul>
       
       
